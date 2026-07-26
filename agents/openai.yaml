@@ -1,0 +1,4 @@
+interface:
+  display_name: "EPUB 双遍翻译"
+  short_description: "按 spine 提取 EPUB，建立译名表与校对报告，完成双遍翻译并生成电脑端和手机 EPUB。"
+  default_prompt: "使用 EPUB 双遍翻译流程处理这本书：提取、分章、译名表、第一遍完整翻译、第二遍逐段对校，并生成电脑端和手机优化 EPUB。"
